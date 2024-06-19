@@ -17,8 +17,8 @@ client_id=YOUR_CLIENT_ID
 client_secret=YOUR_CLIENT_SECRET
 ```
 
-> 👍 Success
+> ❗️ Caution
 > 
-> Vitae reprehenderit at aliquid error voluptates eum dignissimos.
+> This project is very early in development. Currently, program only returns an object response; more features will be added in the future.
 
 
